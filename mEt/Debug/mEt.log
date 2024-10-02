@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(411,5): warning MSB8028: Das Zwischenverzeichnis (Debug\) enthält freigegebene Dateien aus einem anderen Projekt (Klausur.vcxproj, mEt (2).vcxproj, mEt.vcxproj, Rendering Competition.vcxproj). Dies kann zu einem falschen Bereinigungs- und Neuerstellungsverhalten führen.
+  car.cpp
+C:\Users\fyxy\Desktop\4 Semester\Graphische Datenverarbeitung\OLD Rendering Competition\mEt\car.h(4): fatal error C1083: Datei (Include) kann nicht geöffnet werden: "GL\freeglut.h": No such file or directory
+  old.cpp
+  main.cpp
+C:\Users\fyxy\Desktop\4 Semester\Graphische Datenverarbeitung\OLD Rendering Competition\mEt\main.cpp(5): fatal error C1083: Datei (Include) kann nicht geöffnet werden: "GL\freeglut.h": No such file or directory
+  Code wird generiert...

@@ -1,0 +1,22 @@
+﻿teil_1.obj : error LNK2005: "void __cdecl Animate(int)" (?Animate@@YAXH@Z) ist bereits in FreieAufgabe.obj definiert.
+teil_1.obj : error LNK2005: "void __cdecl Init(void)" (?Init@@YAXXZ) ist bereits in FreieAufgabe.obj definiert.
+teil_1.obj : error LNK2005: "void __cdecl RenderScene(void)" (?RenderScene@@YAXXZ) ist bereits in FreieAufgabe.obj definiert.
+teil_1.obj : error LNK2005: "void __cdecl Reshape(int,int)" (?Reshape@@YAXHH@Z) ist bereits in FreieAufgabe.obj definiert.
+teil_1.obj : error LNK2005: _main ist bereits in FreieAufgabe.obj definiert.
+teil_2.obj : error LNK2005: "void __cdecl Animate(int)" (?Animate@@YAXH@Z) ist bereits in FreieAufgabe.obj definiert.
+teil_2.obj : error LNK2005: "void __cdecl Init(void)" (?Init@@YAXXZ) ist bereits in FreieAufgabe.obj definiert.
+teil_2.obj : error LNK2005: "void __cdecl RenderScene(void)" (?RenderScene@@YAXXZ) ist bereits in FreieAufgabe.obj definiert.
+teil_2.obj : error LNK2005: "void __cdecl Reshape(int,int)" (?Reshape@@YAXHH@Z) ist bereits in FreieAufgabe.obj definiert.
+teil_2.obj : error LNK2005: _main ist bereits in FreieAufgabe.obj definiert.
+teil_3.obj : error LNK2005: "void __cdecl Animate(int)" (?Animate@@YAXH@Z) ist bereits in FreieAufgabe.obj definiert.
+teil_3.obj : error LNK2005: "void __cdecl Init(void)" (?Init@@YAXXZ) ist bereits in FreieAufgabe.obj definiert.
+teil_3.obj : error LNK2005: "void __cdecl RenderScene(void)" (?RenderScene@@YAXXZ) ist bereits in FreieAufgabe.obj definiert.
+teil_3.obj : error LNK2005: "void __cdecl Reshape(int,int)" (?Reshape@@YAXHH@Z) ist bereits in FreieAufgabe.obj definiert.
+teil_3.obj : error LNK2005: _main ist bereits in FreieAufgabe.obj definiert.
+teil_4.obj : error LNK2005: "void __cdecl Animate(int)" (?Animate@@YAXH@Z) ist bereits in FreieAufgabe.obj definiert.
+teil_4.obj : error LNK2005: "void __cdecl Init(void)" (?Init@@YAXXZ) ist bereits in FreieAufgabe.obj definiert.
+teil_4.obj : error LNK2005: "void __cdecl RenderScene(void)" (?RenderScene@@YAXXZ) ist bereits in FreieAufgabe.obj definiert.
+teil_4.obj : error LNK2005: "void __cdecl Reshape(int,int)" (?Reshape@@YAXHH@Z) ist bereits in FreieAufgabe.obj definiert.
+teil_4.obj : error LNK2005: _main ist bereits in FreieAufgabe.obj definiert.
+teil_4.obj : error LNK2005: "float fRotation" (?fRotation@@3MA) ist bereits in FreieAufgabe.obj definiert.
+LINK : fatal error LNK1104: Datei "freeglut.lib" kann nicht geöffnet werden.
